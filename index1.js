@@ -47,7 +47,7 @@
 // console.log(climbStairs(10));
 
 
-// const fibonacci = (n) => {
+// const fibonacci = (n) => { 
 //     if (n <= 0) {
 //         return [];
 //     } else if (n === 1) {
