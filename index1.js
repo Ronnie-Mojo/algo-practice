@@ -1,5 +1,5 @@
 
-                        // ***********BASIC   DSA  QUESTIONS****************
+                        // ***********BASIC   DSA  QUESTIONS*****************
 
 
 // const climbingStairs = (n) => {
