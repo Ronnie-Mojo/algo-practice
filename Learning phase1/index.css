@@ -1,0 +1,41 @@
+body {
+    background-color: beige;
+}
+.container{
+    border: 1px solid #000;
+    /* height: fit-content; */
+    width: fit-content;
+    margin: auto;
+    background-color: aquamarine;
+    
+}
+ 
+.circle{
+    border: 1px solid #000;
+    height: 180px;
+    width: 190px;
+    border-radius:50% ;
+    margin: 2% 2%;
+    
+    background-color: transparent;
+}
+.btn{ padding: 7px 7px;
+    font-size: large;
+    margin-left: 8%;
+
+}
+#main-heading{
+    color: yellow;
+    background-color: #000;
+    font-size: 40px;
+}
+
+
+.list-items{
+    border: 1px dotted black;
+    font-size: 2rem;
+    background-color: darkgray;
+    list-style: none;
+    margin-right: 25px ;
+    text-align: center;
+}
